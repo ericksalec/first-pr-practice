@@ -10,3 +10,7 @@ open a pull request.
 ## Usage
 
 Clone it, poke around, and open small, safe PRs against it.
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
